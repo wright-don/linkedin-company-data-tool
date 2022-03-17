@@ -1,0 +1,1 @@
+![example results](https://github.com/wright-don/linkedin-company-data-tool/blob/main/images/example_results.png?raw=true)
